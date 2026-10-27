@@ -1,0 +1,117 @@
+{
+  "code": "YSC",
+  "title": "SMASH YSC",
+  "school": "용인예술과학대",
+  "fullName": "용인예술과학대학교",
+  "campusName": "용인예술과학대학교",
+  "tagline": "용인예술과학대를 부셔 (시험기간 스트레스 해소)",
+  "description": "용인예술과학대학교를 3D로 부수고 지구 중심까지 파 내려가는 스트레스 해소 게임",
+  "ogAlt": "폭탄이 터지며 무너지는 용인예술과학대학교 3D 화면과 SMASH YSC 제목",
+  "url": "https://hong-iron.github.io/SMASH-YSC/",
+  "antipode": "우루과이 앞바다(남대서양)",
+  "osm": {
+    "type": "way",
+    "id": 1013701109
+  },
+  "styles": {},
+  "supportKakao": "https://qr.kakaopay.com/FKcOJKyOy1f405462",
+  "supportToss": "supertoss://send?amount=1000&bank=%ED%86%A0%EC%8A%A4%EB%B1%85%ED%81%AC&accountNo=100123297463&origin=qr",
+  "hub": "https://hong-iron.github.io/SMASH/",
+  "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
+  "goatcounter": "https://sassafras.goatcounter.com/count",
+  "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "exclude": [
+    {
+      "at": [
+        37.2285394,
+        127.2153965
+      ],
+      "n": "",
+      "why": "항공사진에 없음 — 국제관 서쪽 입구 주차장 아스팔트 자리라 사진에 서 있는 건물이 없고, 모서리의 흰 물체는 옆 사유지(572-14 밭)에 있다."
+    },
+    {
+      "at": [
+        37.2278906,
+        127.2191613
+      ],
+      "n": "",
+      "why": "항공사진에 없음 — 조화관과 기숙사 사이 화단 자리라 사진에 나무만 보이고 지붕이 없으며, 건물 대장 기록도 비어 있다."
+    },
+    {
+      "at": [
+        37.2294504,
+        127.2192035
+      ],
+      "n": "",
+      "why": "항공사진에 없음 — 송담관 동쪽 주차장 바닥 자리라 사진에 건물이 없고, 건물 대장 기록도 비어 있다."
+    },
+    {
+      "at": [
+        37.2279672,
+        127.2181288
+      ],
+      "n": "",
+      "why": "항공사진에 없음 — 조화관 북쪽 숲 비탈이라 사진에 나무뿐이고, 동쪽 끝만 조화관 지붕과 겹치며 캠퍼스 윤곽 밖에 중심이 있다."
+    },
+    {
+      "at": [
+        37.2285822,
+        127.2155582
+      ],
+      "n": "",
+      "why": "항공사진에 없음 — 국제관 서쪽 주차장 아스팔트 자리라 사진에 건물이 없다."
+    }
+  ],
+  "look": {
+    "송담관": {
+      "style": "brick",
+      "wall": "#c9a7a2",
+      "glass": "#2b3837",
+      "frame": "#e2e2e0"
+    },
+    "창의관": {
+      "style": "glass",
+      "wall": "#b4bcc4",
+      "glass": "#4a6f9a",
+      "frame": "#88919d"
+    },
+    "조화관": {
+      "style": "brick",
+      "wall": "#a97659",
+      "glass": "#26251f",
+      "frame": "#c3c0b5"
+    },
+    "국제관": {
+      "style": "brick",
+      "wall": "#d1b7b0",
+      "glass": "#3a3739",
+      "frame": "#ececec"
+    },
+    "비전관": {
+      "style": "brick",
+      "wall": "#ae8e87",
+      "glass": "#343135",
+      "frame": "#f0f1f2"
+    },
+    "학술정보관": {
+      "style": "stone",
+      "wall": "#d5d8db",
+      "glass": "#3c494c",
+      "frame": "#8b9394"
+    },
+    "기숙사": {
+      "style": "brick",
+      "wall": "#d6b29a",
+      "glass": "#3a4a48",
+      "frame": "#e4e0d8"
+    },
+    "본관": {
+      "style": "brick",
+      "wall": "#ba8876",
+      "glass": "#232d30",
+      "frame": "#dcccc3"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
+}

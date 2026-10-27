@@ -1,0 +1,11 @@
+raw/
+.DS_Store
+__pycache__/
+.done
+.failed
+.deployed
+.stats.json
+.env
+data/floors.json
+.built
+.thumb
